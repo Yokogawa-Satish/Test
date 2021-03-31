@@ -71,8 +71,3 @@ Follow these steps to install the `sample-ai-application` on the e-RT3 Plus devi
 
    > **_Note:_** Replace IP_ADDRESS_OF_ERT3_DEVICE with the IP address of your e-RT3 Plus device.
    > 
-
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WDXWZGZ"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
