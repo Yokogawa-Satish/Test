@@ -1,3 +1,5 @@
+
+<head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-193476523-1"></script>
 <script>
@@ -7,7 +9,7 @@
 
   gtag('config', 'UA-193476523-1');
 </script>
-
+</head>
 
 # Install sample AI application on e-RT3 Plus device
 
